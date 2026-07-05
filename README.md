@@ -287,12 +287,6 @@ Developed an executive dashboard providing insights into:
 - Completed vs Cancelled Visits
 - Monthly Trends
 
-### Pregnancy Analytics
-
-- Pregnancy Encounters
-- Diagnosis Distribution
-- Due Date Monitoring
-
 ---
 
 # 📈 Key Benefits
